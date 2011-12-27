@@ -1,4 +1,10 @@
+English version:
+-----------------
 Arduino code for an IR-sensor trigger for camera EOS 450D. (most cameras compatible).
 Schemes will be added soon.
+
+#####################################################################
+Spanish version:
+------------------
 Código de Arduino para un disparador automático cuando se corta un rayo infrarrojo, para la cámara EOS 450D (compatible con casi todas las cámaras).
 El esquema del circuito será añadido próximamente.
